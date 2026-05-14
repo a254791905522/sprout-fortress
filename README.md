@@ -36,8 +36,8 @@ This folder contains App Store publishing materials for **Sprout Fortress**.
 
 Replace placeholders with your deployed URLs in App Store Connect:
 
-- Privacy Policy URL: `https://YOUR_DOMAIN/privacy.html`
-- Support URL: `https://YOUR_DOMAIN/index.html#support`
-- Marketing URL: `https://YOUR_DOMAIN/index.html`
+- Privacy Policy URL: `https://sprout-fortress.vercel.app/privacy.html`
+- Support URL: `https://sprout-fortress.vercel.app/#support`
+- Marketing URL: `https://sprout-fortress.vercel.app`
 
 Do not submit placeholder URLs. Deploy `index.html` and `privacy.html` first, then verify both pages are publicly reachable without login.
